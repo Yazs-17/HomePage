@@ -1,18 +1,18 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
+		"title": "Yazs",
+		"description": "Author:Yazs,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
+		"title": "Yazs",
+		"subtitle": "Full Stack engineer & Open Source Contributor",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
+		"name": "Yazs",
 		"signature": "Code & Input & Output",
 		"avatar": {
 			"link": "assets/avatar.jpg",
@@ -21,22 +21,22 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "__blank",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "https://github.com/Yazs-17",
 				"icon": "xiaolian",
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:hi@simonaking.com",
+				"href": "Yyyyazs17@gmail.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/SimonAKing",
+				"href": "https://github.com/Yazs-17",
 				"icon": "github",
 				"text": "Github"
 			}
